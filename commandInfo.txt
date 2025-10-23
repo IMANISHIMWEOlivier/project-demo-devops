@@ -1,0 +1,5 @@
+git log => show the history
+git status => show the state of current working directory
+git diff => show the diffrence of file
+git remote -v => show the remote repository link
+git reset=> used to undo chenge
