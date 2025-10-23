@@ -1,2 +1,1 @@
-# project-demo-devops
-Assignment
+This is assignement of the Development Operation for Session Git
